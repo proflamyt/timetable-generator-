@@ -1,0 +1,393 @@
+[
+	{
+		"instructor": {
+			"id": 1,
+			"name": "Victor"
+		}
+	},
+	{
+		"instructor": {
+			"id": 2,
+			"name": "Red"
+		}
+	},
+	{
+		"instructor": {
+			"id": 3,
+			"name": "Philip"
+		}
+	},
+	{
+		"instructor": {
+			"id": 4,
+			"name": "Marry"
+		}
+	},
+	{
+		"instructor": {
+			"id": 5,
+			"name": "Don"
+		}
+	},
+	{
+		"instructor": {
+			"id": 6,
+			"name": "Mark"
+		}
+	},
+	{
+		"instructor": {
+			"id": 7,
+			"name": "Peter"
+		}
+	},
+	{
+		"instructor": {
+			"id": 8,
+			"name": "John"
+		}
+	},
+	{
+		"instructor": {
+			"id": 9,
+			"name": "Ben"
+		}
+	},
+	{
+		"instructor": {
+			"id": 10,
+			"name": "Mike"
+		}
+	},{
+		"instructor": {
+			"id": 11,
+			"name": "Steve"
+		}
+	},
+	{
+		"instructor": {
+			"id": 12,
+			"name": "Ann"
+		}
+	},
+	{
+		"instructor": {
+			"id": 13,
+			"name": "Alex"
+		}
+	},
+	{
+		"course": {
+			"course_number": 1,
+			"course_name": "Introduction to Programming"
+		}
+	},
+	{
+		"course": {
+			"course_number": 2,
+			"course_name": "Introduction to Computer Architecture"
+		}
+	},
+	{
+		"course": {
+			"course_number": 3,
+			"course_name": "Business Applications"
+		}
+	},
+	{
+		"course": {
+			"course_number": 4,
+			"course_name": "English"
+		}
+	},
+	{
+		"course": {
+			"course_number": 5,
+			"course_name": "Discrete Mathematic I"
+		}
+	},
+	{
+		"course": {
+			"course_number": 6,
+			"course_name": "Linear Algebra"
+		}
+	},
+	{
+		"course": {
+			"course_number": 7,
+			"course_name": "Introduction to Information Technology I"
+		}
+	},
+	{
+		"course": {
+			"course_number": 8,
+			"course_name": "System Administration and Maintenance I"
+		}
+	},
+	{
+		"venue": {
+			"name": "R3",
+			"lab": true,
+			"size": 24
+		}
+	},
+	{
+		"venue": {
+			"name": "R7",
+			"lab": false,
+			"size": 60
+		}
+	},
+	{
+		"department": {
+			"id": 1,
+			"dept name": "1O1",
+			"size": 19
+		}
+	},
+	{
+		"department": {
+			"id": 2,
+			"dept name": "1O2",
+			"size": 19
+		}
+	},
+	{
+		"department": {
+			"id": 3,
+			"dept name": "1O3",
+			"size": 19
+		}
+	},
+	{
+		"department": {
+			"id": 4,
+			"dept name": "1S1",
+			"size": 19
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 1,
+			"course_id": 1,
+			"time": 2,
+			"groups": [ 1, 2 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 1,
+			"course_id": 1,
+			"time": 2,
+			"groups": [ 3, 4 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 9,
+			"course_id": 1,
+			"time": 3,
+			"group": 1,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 9,
+			"course_id": 1,
+			"time": 3,
+			"group": 2,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 9,
+			"course_id": 1,
+			"time": 3,
+			"group": 3,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 9,
+			"course_id": 1,
+			"time": 3,
+			"group": 4,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 2,
+			"course_id": 2,
+			"time": 2,
+			"group": [ 3, 4 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 2,
+			"course_id": 2,
+			"time": 2,
+			"group": [ 1, 2 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 3,
+			"course_id": 2,
+			"time": 2,
+			"group": 1,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 3,
+			"course_id": 2,
+			"time": 2,
+			"group": 2,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 3,
+			"course_id": 2,
+			"time": 2,
+			"group": 3,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 3,
+			"course_id": 2,
+			"time": 2,
+			"group": 4,
+			"lab": true
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 4,
+			"course_id": 4,
+			"time": 2,
+			"group": [ 3, 4 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 4,
+			"course_id": 4,
+			"time": 2,
+			"group": [ 3, 4 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 4,
+			"course_id": 4,
+			"time": 2,
+			"group": [ 1, 2 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 4,
+			"course_id": 4,
+			"time": 2,
+			"group": [ 1, 2 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 5,
+			"course_id": 6,
+			"time": 2,
+			"group": [ 1, 2, 3 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 5,
+			"course_id": 6,
+			"time": 2,
+			"group": [ 1, 2, 3 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 7,
+			"course_id": 5,
+			"time": 2,
+			"group": [ 1, 2, 3 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 7,
+			"course_id": 5,
+			"time": 2,
+			"group": [ 1, 2 ]
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 10,
+			"course_id": 5,
+			"time": 2,
+			"group": 3
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 8,
+			"course_id": 3,
+			"time": 2,
+			"group": 2
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 8,
+			"course_id": 3,
+			"time": 2,
+			"group": 3
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 12,
+			"course_id": 3,
+			"time": 2,
+			"group": 1
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 12,
+			"course_id": 3,
+			"time": 2,
+			"group": 4
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 11,
+			"course_id": 7,
+			"time": 2,
+			"group": 4
+		}
+	},
+	{
+		"class": {
+			"instructor_id": 13,
+			"course_id": 8,
+			"time": 2,
+			"group": 4
+		}
+	}
+]            

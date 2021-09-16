@@ -1,0 +1,224 @@
+[
+    {
+        "venue": {
+            "id": 3,
+            "name": "ELT",
+            "size": 250,
+            "lab": false
+        }
+    },
+    {
+        "venue": {
+            "id": 4,
+            "name": "ALT",
+            "size": 34,
+            "lab": true
+        }
+    },
+    {
+        "venue": {
+            "id": 5,
+            "name": "PLT",
+            "size": 29,
+            "lab": true
+        }
+    },
+    {
+        "instructor": {
+            "id": 1,
+            "number": 1,
+            "name": "Dr Sobowale"
+        }
+    },
+    {
+        "instructor": {
+            "id": 2,
+            "number": 2,
+            "name": "Dr Omodunbi"
+        }
+    },
+    {
+        "instructor": {
+            "id": 3,
+            "number": 3,
+            "name": "Dr Esan"
+        }
+    },
+    {
+        "instructor": {
+            "id": 4,
+            "number": 4,
+            "name": "Mrs Asaolu"
+        }
+    },
+    {
+        "instructor": {
+            "id": 5,
+            "number": 5,
+            "name": "Dr Okomba"
+        }
+    },
+    {
+        "instructor": {
+            "id": 6,
+            "number": 6,
+            "name": "Dr Adeyanju"
+        }
+    },
+    {
+        "instructor": {
+            "id": 7,
+            "number": 7,
+            "name": "Dr Olaniyan"
+        }
+    },
+    {
+        "course": {
+            "id": 6,
+            "course_number": 1,
+            "course_name": "CPE 501"
+        }
+    },
+    {
+        "course": {
+            "id": 7,
+            "course_number": 2,
+            "course_name": "CPE 503"
+        }
+    },
+    {
+        "course": {
+            "id": 8,
+            "course_number": 3,
+            "course_name": "CPE 505"
+        }
+    },
+    {
+        "course": {
+            "id": 9,
+            "course_number": 4,
+            "course_name": "CPE 507"
+        }
+    },
+    {
+        "course": {
+            "id": 10,
+            "course_number": 5,
+            "course_name": "CPE 509"
+        }
+    },
+    {
+        "course": {
+            "id": 11,
+            "course_number": 6,
+            "course_name": "CPE 511"
+        }
+    },
+    {
+        "department": {
+            "id": 1,
+            "dept_id": 1,
+            "dept_name": "Mechanical",
+            "size": 19
+        }
+    },
+    {
+        "department": {
+            "id": 2,
+            "dept_id": 2,
+            "dept_name": "mechatronics",
+            "size": 21
+        }
+    },
+    {
+        "department": {
+            "id": 3,
+            "dept_id": 3,
+            "dept_name": "Civil en",
+            "size": 30
+        }
+    },
+    {
+        "department": {
+            "id": 4,
+            "dept_id": 4,
+            "dept_name": "mme",
+            "size": 34
+        }
+    },
+    {
+        "department": {
+            "id": 5,
+            "dept_id": 5,
+            "dept_name": "metarlurgy",
+            "size": 20
+        }
+    },
+    {
+        "class": {
+            "id": 1,
+            "section_id": 1,
+            "course_id": 7,
+            "time": 1,
+            "instructor_id": 2,
+            "lab": true,
+            "group": [
+                1,
+                2
+            ]
+        }
+    },
+    {
+        "class": {
+            "id": 2,
+            "section_id": 1,
+            "course_id": 7,
+            "time": 1,
+            "instructor_id": 7,
+            "lab": true,
+            "group": [
+                3
+            ]
+        }
+    },
+    {
+        "class": {
+            "id": 3,
+            "section_id": 1,
+            "course_id": 7,
+            "time": 1,
+            "instructor_id": 5,
+            "lab": true,
+            "group": [
+                4,
+                5
+            ]
+        }
+    },
+    {
+        "class": {
+            "id": 4,
+            "section_id": 1,
+            "course_id": 9,
+            "time": 3,
+            "instructor_id": 4,
+            "lab": false,
+            "group": [
+                4
+            ]
+        }
+    },
+    {
+        "class": {
+            "id": 5,
+            "section_id": 1,
+            "course_id": 9,
+            "time": 2,
+            "instructor_id": 3,
+            "lab": true,
+            "group": [
+                3
+            ]
+        }
+    }
+]
